@@ -85,4 +85,4 @@ YourDirectory/
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by Himanshu Chaudhari
+Made by Qypher365
