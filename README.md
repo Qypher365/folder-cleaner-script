@@ -36,7 +36,7 @@ Libraries used:
 
 1. **Clone or download the repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Qypher365/folder-cleaner-script.git
    cd "Folder Cleaner Script"
    ```
 
